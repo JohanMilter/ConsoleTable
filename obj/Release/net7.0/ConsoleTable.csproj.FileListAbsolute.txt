@@ -1,0 +1,14 @@
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\bin\Release\net7.0\ConsoleTable.exe
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\bin\Release\net7.0\ConsoleTable.deps.json
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\bin\Release\net7.0\ConsoleTable.runtimeconfig.json
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\bin\Release\net7.0\ConsoleTable.dll
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\bin\Release\net7.0\ConsoleTable.pdb
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\obj\Release\net7.0\ConsoleTable.GeneratedMSBuildEditorConfig.editorconfig
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\obj\Release\net7.0\ConsoleTable.AssemblyInfoInputs.cache
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\obj\Release\net7.0\ConsoleTable.AssemblyInfo.cs
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\obj\Release\net7.0\ConsoleTable.csproj.CoreCompileInputs.cache
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\obj\Release\net7.0\ConsoleTable.dll
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\obj\Release\net7.0\refint\ConsoleTable.dll
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\obj\Release\net7.0\ConsoleTable.pdb
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\obj\Release\net7.0\ConsoleTable.genruntimeconfig.cache
+P:\Utilities\Libraries\C#\ConsoleTable\ConsoleTable\obj\Release\net7.0\ref\ConsoleTable.dll
